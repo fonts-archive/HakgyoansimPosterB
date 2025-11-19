@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Hakgyoansim Poster B";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimPosterB/Hakgyoansim_PosterB.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimPosterB/Hakgyoansim_PosterB.woff") format("woff"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimPosterB/Hakgyoansim_PosterB.otf") format("opentype"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimPosterB/Hakgyoansim_PosterB.ttf") format("truetype");
+}
